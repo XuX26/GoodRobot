@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 124d2fea90020e7409bec7ab2163d6f8
+  - enabled: 0
+    path: Assets/Scenes/Levels/Level_0.unity
+    guid: 405664e7c51c6884c8519903f295efc7
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_0_reworked.unity
+    guid: c4e4edf8701f07142a42812b43256689
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_1.unity
+    guid: 3b0f9eb33b99d0445a6cfdce0dc71308
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_2_shoze.unity
+    guid: 6ef0f534430c965428e562446b259df8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_3-easy_shoze.unity
+    guid: fdfea735aa99d814ea7b2770e35043c3
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Levels/Level_2.unity
+    guid: 7c6b2ef876925674183caf881a7418fc
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_2_reworked.unity
+    guid: ad915550f4341b743b9277479157f881
+  - enabled: 0
+    path: Assets/Scenes/Levels/Level_4.unity
+    guid: 09318f04ba0c2ab44801717cc2cfdb54
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_4_reworked.unity
+    guid: 88c791d85cf2bb048a5d2324d4871d0a
+  - enabled: 0
+    path: Assets/Scenes/Levels/Level_3_shoze.unity
+    guid: e28f864b1c68ac2479f6d41ba91abf1f
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_3_shoze_reworked.unity
+    guid: 53291522a1a86ff46a7a4b01e3f762db
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_5.unity
+    guid: c74c95f6ee6bfb44c8d7f78fb23e7a62
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level_7_Ulysse.unity
+    guid: 7cc600299192c2d42be7ccef715ecad6
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_9.unity
+    guid: 464ee134f0b259e4dbef89103304a674
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_8.unity
+    guid: d42699062b1015542aa8cf1f633d12a9
+  - enabled: 0
+    path: Assets/Scenes/Levels/Level_6_Ulysse.unity
+    guid: c857f3ebd1cf3014db43e2ab2f4b7b83
+  - enabled: 1
+    path: Assets/Scenes/Levels/New, reworked levels/Level_6_Reworked.unity
+    guid: ef3df0d935d2c2844b1dc5c067222895
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 220c3c792596c9e488a3414b4cbc81e6
+  m_configObjects: {}
